@@ -1,0 +1,20 @@
+{
+  "name": "visual-transform",
+  "version": "1.0.0",
+  "description": "Visual transform DOM element (Scale/Rotate/Move)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrii-kvlnko/visual-transform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrii-kvlnko/visual-transform/issues"
+  },
+  "homepage": "https://github.com/andrii-kvlnko/visual-transform#readme"
+}
